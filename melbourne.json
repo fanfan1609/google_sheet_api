@@ -1,0 +1,71 @@
+{
+    "Branch_ID" : 34938181,
+    "Branch_Name": "Melbourne",
+    "Products" : [
+        {
+            "Name" : "Nescafe Blend 43",
+            "ID" : 26973951,
+            "SKU" : "COFF-1876",
+            "SKU_ID" : 1,
+            "Batch" : "AF-2020A8",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "COLOMBIAN, Master Origin",
+            "ID" : 26706882,
+            "SKU" : "COFF2497",
+            "SKU_ID" : 1,
+            "Batch" : "CO-2020A7",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "BARISTA CREATIONS BIANCO LEGGERO",
+            "ID" : 31005861,
+            "SKU" : "COFF-1624",
+            "SKU_ID" : 1,
+            "Batch" : "IN-2020B1",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "FORTADO",
+            "ID" : 30698873,
+            "SKU" : "COFF-5888",
+            "SKU_ID" : 1,
+            "Batch" : "BR-2020A1",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "CARAMEL COOKIE",
+            "ID" : 26180651,
+            "SKU" : "COFF-2064",
+            "SKU_ID" : 1,
+            "Batch" : "AF-2020B4",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "DECAFFEINATO ONTUOSO",
+            "ID" : 25921437,
+            "SKU" : "COFF2497",
+            "SKU_ID" : 1,
+            "Batch" : "IN-2020B1",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "DECAFFEINATO ONTUOSO",
+            "ID" : 30394923,
+            "SKU" : "COFF-5353",
+            "SKU_ID" : 2,
+            "Batch" : "IN-2020A9",
+            "Batch_ID" : 2
+        },        
+        {
+            "Name" : "AFLORAZIO",
+            "ID" : 29208924,
+            "SKU" : "COFF-2270",
+            "SKU_ID" : 1,
+            "Batch" : "AF-2020A2",
+            "Batch_ID" : 1
+        },        
+        
+    ]
+}
