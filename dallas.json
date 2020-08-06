@@ -1,0 +1,87 @@
+{
+    "Branch_ID" : 34249760,
+    "Branch_Name": "Dallas",
+    "Products" : [
+        {
+            "Name" : "Nescafe Blend 43",
+            "ID" : 28633393,
+            "SKU" : "COFF1876",
+            "SKU_ID" : 1,
+            "Batch" : "AF2020A8",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "MASTER ORIGIN COLOMBIA",
+            "ID" : 28919727,
+            "SKU" : "COFF2497",
+            "SKU_ID" : 1,
+            "Batch" : "CO2020A7",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "BARISTA CREATIONS BIANCO LEGGERO",
+            "ID" : 37087583,
+            "SKU" : "COFF1624",
+            "SKU_ID" : 1,
+            "Batch" : "IN2020B1",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "FORTADO",
+            "ID" : 29796023,
+            "SKU" : "COFF5888",
+            "SKU_ID" : 1,
+            "Batch" : "BR2020A1",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "CARAMEL COOKIE",
+            "ID" : 30093984,
+            "SKU" : "COFF2064",
+            "SKU_ID" : 1,
+            "Batch" : "AF2020B4",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "DECAFFEINATO ONTUOSO",
+            "ID" : 38593487,
+            "SKU" : "COFF2497",
+            "SKU_ID" : 1,
+            "Batch" : "IN2020B1",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "DECAFFEINATO ONTUOSO",
+            "ID" : 38593487,
+            "SKU" : "COFF2497",
+            "SKU_ID" : 1,
+            "Batch" : "IN2020A1",
+            "Batch_ID" : 2
+        },
+        {
+            "Name" : "DECAFFEINATO ONTUOSO",
+            "ID" : 38593487,
+            "SKU" : "COFF5353",
+            "SKU_ID" : 2,
+            "Batch" : "IN2020A9",
+            "Batch_ID" : 3
+        },
+        {
+            "Name" : "AFLORAZIO",
+            "ID" : 29501013,
+            "SKU" : "COFF2270",
+            "SKU_ID" : 1,
+            "Batch" : "AF2020A4",
+            "Batch_ID" : 1
+        },
+        {
+            "Name" : "AFLORAZIO",
+            "ID" : 29501013,
+            "SKU" : "COFF2270",
+            "SKU_ID" : 1,
+            "Batch" : "AF2020A2",
+            "Batch_ID" : 2
+        },
+        
+    ]
+}
